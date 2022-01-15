@@ -1,6 +1,6 @@
 ﻿/**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Contact Me on wa.me/628985397156
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6289670427615']
+global.owner = ['628985397156']
 global.packname = ' '
 global.author = 
 global.sessionName = 'hisoka'
