@@ -40,7 +40,6 @@
     "util": "^0.12.4",
     "xfarr-api": "^1.0.0",
     "yargs": "^17.2.1",
-    "yarn": "^1.22.17"
   },
   "directories": {
     "lib": "lib"
